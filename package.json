@@ -1,7 +1,7 @@
 {
   "name": "bip173",
   "version": "1.1.4",
-  "description": "Bech32(bip173) encoding / decoding",
+  "description": "bip173 encoding / decoding",
   "keywords": [
     "bip173",
     "base32",
@@ -27,7 +27,7 @@
     "tap-dot": "*"
   },
   "repository": {
-    "url": "http://github.com/bitcoinjs/bip173",
+    "url": "http://github.com/aneatingcat/bip173",
     "type": "git"
   },
   "scripts": {
